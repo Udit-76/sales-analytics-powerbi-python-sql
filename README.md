@@ -51,11 +51,6 @@ Sales-Performance-Analysis/
 - Matplotlib / Seaborn (Visual EDA)
 - Jupyter Notebook
 
-### **🔹 SQL**
-- Data extraction
-- Filtering, grouping, aggregation
-- Analytical queries
-
 ### **🔹 Power BI**
 - Data modeling  
 - DAX for KPIs  
@@ -106,26 +101,7 @@ Notebook is available here:
 
 ---
 
-## 🗄 3. SQL Analysis (Optional)
-
-Sample SQL queries used:
-
-```sql
-SELECT Category, SUM(Sales) AS TotalSales
-FROM sales
-GROUP BY Category
-ORDER BY TotalSales DESC;
-```
-
-```sql
-SELECT Region, SUM(Profit) AS TotalProfit
-FROM sales
-GROUP BY Region;
-```
-
----
-
-## 📈 4. Power BI Dashboard
+## 📈 3. Power BI Dashboard
 
 The dashboard includes:
 
@@ -142,9 +118,6 @@ The dashboard includes:
 - Top 10 Products (Bar Chart)
 - Customer Segment Breakdown (Donut Chart)
 
-### Dashboard Preview  
-📌 *(screenshot stored under `/images/dashboard_preview.png`)*  
-![Dashboard Preview](images/dashboard_preview.png)
 
 ---
 
@@ -162,7 +135,6 @@ The dashboard includes:
 This project demonstrates:
 
 ✔ Data Cleaning (Python)  
-✔ SQL for business insights  
 ✔ EDA for patterns  
 ✔ Power BI dashboard development  
 ✔ End-to-end analyst workflow  
@@ -172,8 +144,7 @@ This project demonstrates:
 ## 📬 Connect With Me  
 If you found this project interesting, feel free to connect with me:
 
-🔗 **LinkedIn:** https://www.linkedin.com/feed/  
-🔗 **GitHub:** *add your profile*  
+🔗 **LinkedIn:** https://www.linkedin.com/feed/ 
 
 ---
 
