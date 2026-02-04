@@ -172,7 +172,7 @@ This project demonstrates:
 ## 📬 Connect With Me  
 If you found this project interesting, feel free to connect with me:
 
-🔗 **LinkedIn:** *add your link*  
+🔗 **LinkedIn:** https://www.linkedin.com/feed/  
 🔗 **GitHub:** *add your profile*  
 
 ---
